@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digital Agenda</string>
+    <string name="create">Crear Contanto</string>
+    <string name="list">Lista de Contactos</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="phone">Teléfono</string>
+    <string name="cell_phone">Celular</string>
+    <string name="Save">Guardar</string>
+    <string name="done">Guardado con Éxito</string>
+    <string name="no_records">No hay Contactos</string>
+    <string name="required">Requerido</string>
+</resources>

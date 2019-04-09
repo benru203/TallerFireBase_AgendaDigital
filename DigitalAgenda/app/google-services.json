@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1058289954563",
+    "firebase_url": "https://digitalagenda-af7b8.firebaseio.com",
+    "project_id": "digitalagenda-af7b8",
+    "storage_bucket": "digitalagenda-af7b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058289954563:android:8b411eefce023e0b",
+        "android_client_info": {
+          "package_name": "com.example.digitalagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058289954563-ci5b62q7qudrnpjk591neonpb44vb6qp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalagenda",
+            "certificate_hash": "b5a999584af5ea476fbe8df0945bcc39a78f4d67"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vZay8qWarkDp2sdFCfhfsOj4IIal54k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058289954563-04e4r3difnetlh8mdibg5mto0ci389gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
